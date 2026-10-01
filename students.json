@@ -1,0 +1,34 @@
+[
+    {
+        "student_id": 1,
+        "name": "Shivam",
+        "age": 21,
+        "python": 86.0,
+        "mathematics": 89.0,
+        "machine_learning": 79.0
+    },
+    {
+        "student_id": 2,
+        "name": "Amit",
+        "age": 22,
+        "python": 85.0,
+        "mathematics": 78.0,
+        "machine_learning": 82.0
+    },
+    {
+        "student_id": 3,
+        "name": "Riya",
+        "age": 21,
+        "python": 70.0,
+        "mathematics": 80.0,
+        "machine_learning": 90.0
+    },
+    {
+        "student_id": 4,
+        "name": "Rohit",
+        "age": 24,
+        "python": 90.0,
+        "mathematics": 78.0,
+        "machine_learning": 85.0
+    }
+]
